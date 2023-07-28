@@ -1,0 +1,1 @@
+Artificial General Intelligence (AGI) is described as the representation of generalized human cognitive abilities in software so that, when faced with an unfamiliar task, the AGI system can find a solution. In other words, it's the ability of AI to learn in the same fashion as humans.
